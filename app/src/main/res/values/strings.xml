@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Buddies App</string>
+    <string name="splash_name">Welcome to my Buddies App!</string>
+
+    <string name="name1">akshit.udacity</string>
+    <string name="desc1">Akshit Jain is the Student Experience Lead at Udacity. He always comes up with great ideas and surprises for everyone.
+        He is a really good friend and mentor alike who is always ready to help.
+    </string>
+
+    <string name="name2">Geeta.fend</string>
+    <string name="desc2">Geetanjali is the student moderator of #git_github channel on Slack. She always comes up with new challenges and tasks for everyone.
+        She is a very good speaker and is confident in whatever she does.
+    </string>
+
+    <string name="name3">karthikeyan.mws</string>
+    <string name="desc3">Karthikeyan is the student moderator on Slack. He has amazing skills and is always ready to help no matter the time.
+    </string>
+
+    <string name="name4">lakshit.and</string>
+    <string name="desc4">Lakshit is a very dedicated person towards his goal. He has amazing skills and is always doing something or the other.
+        He is always available if I get stuck anywhere and provides instant and great solutions.
+    </string>
+
+</resources>
