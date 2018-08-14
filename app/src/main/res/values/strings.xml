@@ -1,6 +1,15 @@
 <resources>
     <string name="app_name">Buddies App</string>
+    <string name="wish">Happy Friendship Day!</string>
     <string name="splash_name">Welcome to my Buddies App!</string>
+    <string name="surp">Surprise!</string>
+    <string name="dedicatn">This is dedicated to all my \'yaar\'. To friends who became really special and important part of my life since past few months.
+    \n \nThe random posts in #random channels by @nalayak surely brings smile on our faces in this fast-paced lives.
+    \n \nThe introduction challenge in the #introductions channel through which we know the vastness of Google Udacity Scholarship and the challenges which each one of us have crossed.
+    \n \nThe never ending challenges by all moderators in different channels that give us a head start and a big flight to meet deadlines in a fun and easy way.
+    \n \nThe list can go on and on. Here are some special ones whom I had a chance to be in contact with and who really inspires me to learn without limits.
+        \n \nThank you so much for being with me always :p\n
+    </string>
 
     <string name="name1">akshit.udacity</string>
     <string name="desc1">Akshit Jain is the Student Experience Lead at Udacity. He always comes up with great ideas and surprises for everyone.
@@ -20,5 +29,6 @@
     <string name="desc4">Lakshit is a very dedicated person towards his goal. He has amazing skills and is always doing something or the other.
         He is always available if I get stuck anywhere and provides instant and great solutions.
     </string>
+    <string name="title_activity_ded">DedActivity</string>
 
 </resources>

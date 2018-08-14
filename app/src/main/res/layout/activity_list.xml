@@ -5,16 +5,34 @@
     android:background="#FF4081"
     android:orientation="vertical">
 
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:gravity="center"
+        android:text="@string/wish"
+        android:textColor="#000"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/dedn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:background="#F8BBD0"
+        android:text="@string/surp"
+        android:textSize="18sp" />
+
     <ListView
         android:id="@+id/list_view"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="wrap_content"
         android:layout_margin="2dp"
         android:background="#FF4081"
         android:drawSelectorOnTop="true"
         android:padding="5dp"
-        android:visibility="visible">
-
-    </ListView>
+        android:visibility="visible"></ListView>
 
 </LinearLayout>
