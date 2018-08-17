@@ -3,7 +3,7 @@
 * Happy Friendship Day to all my lovely Friends! 👍 
 * This app is a part of Google Udacity Scholarship Challenge in the Android Basics Nanodegree. 
 * It implements List View using adapter and Card Views.
-* <br/> Hope you'll like it. All suggestions are welcome.
+* Hope you'll like it. All suggestions are welcome.
 <br/>
 #HappyFriendshipDay
 <br/>
