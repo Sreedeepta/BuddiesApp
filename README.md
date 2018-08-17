@@ -5,11 +5,10 @@
 * It implements List View using adapter and Card Views.
 * Hope you'll like it. All suggestions are welcome.
 <br/>
-#HappyFriendshipDay
-<br/>
-#SpreadingSmilesChallenge
-<br/>
-### Twitter Link to Video: https://twitter.com/YASHIKA49038475/status/1029436976347267072?s=19<br/>
+#HappyFriendshipDay <br/>
+#SpreadingSmilesChallenge <br/>
+
+### Twitter Link to Video: https://twitter.com/YASHIKA49038475/status/1029436976347267072?s=19 <br/>
 
 ### Screenshots:<br/>
 
