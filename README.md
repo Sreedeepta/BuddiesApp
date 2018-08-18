@@ -13,8 +13,7 @@
 ### Screenshots:<br/>
 
 > <img src="https://user-images.githubusercontent.com/39722898/44111947-69ac94c2-a021-11e8-839c-c0b9642b369b.jpeg" width="200" height="400" />
-<br/>
-* Splash Screen
+* Splash Screen :pointed-up:
 
 > <img src="https://user-images.githubusercontent.com/39722898/44111960-6f109954-a021-11e8-82ff-ac22c906bf45.jpeg" width="200" height="400" />
 * Main Page
