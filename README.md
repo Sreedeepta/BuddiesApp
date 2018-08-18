@@ -4,7 +4,6 @@
 * This app is a part of Google Udacity Scholarship Challenge in the Android Basics Nanodegree. 
 * It implements List View using adapter and Card Views.
 * Hope you'll like it. All suggestions are welcome.
-<br/>
 #HappyFriendshipDay <br/>
 #SpreadingSmilesChallenge <br/>
 
