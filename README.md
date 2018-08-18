@@ -12,6 +12,8 @@
 
 ### Screenshots:<br/>
 
+<img src="https://camo.githubusercontent.com/..." data-canonical-src="<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />" width="200" height="400" />
+
 > ![splash](https://user-images.githubusercontent.com/39722898/44111947-69ac94c2-a021-11e8-839c-c0b9642b369b.jpeg) 
 > ![main](https://user-images.githubusercontent.com/39722898/44111960-6f109954-a021-11e8-82ff-ac22c906bf45.jpeg)
 > ![list](https://user-images.githubusercontent.com/39722898/44111970-737f15a6-a021-11e8-9a52-9c21ff9f1a14.jpeg)
